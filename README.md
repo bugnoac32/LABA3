@@ -40,3 +40,6 @@ static void mpu6500_log_gyro_swo(void)
   }
 }
 ```
+<img width="701" height="216" alt="Снимок экрана (949)" src="https://github.com/user-attachments/assets/0acbe6d4-895a-41a9-aaa9-b1c6bba45948" />
+<img width="634" height="623" alt="Снимок экрана (950)" src="https://github.com/user-attachments/assets/a9bb8c33-01ae-4467-807d-325ad35e1098" />
+
