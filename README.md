@@ -3,7 +3,7 @@
 ![photo_1_2025-11-27_23-26-01](https://github.com/user-attachments/assets/f3abe576-4742-4477-9e08-020628f8db27)
 Пини
 <img width="1920" height="1033" alt="Снимок экрана (948)" src="https://github.com/user-attachments/assets/fa64e36c-8ba9-470a-93f0-f2ee7e609a50" />
-'''
+```
 
 static void mpu6500_update_gyro(void)
 {
@@ -39,4 +39,4 @@ static void mpu6500_log_gyro_swo(void)
     if (n > 0) swo_print(buf);
   }
 }
-'''
+```
